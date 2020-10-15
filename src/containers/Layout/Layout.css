@@ -1,0 +1,13 @@
+.bodyTitle {
+    width: 90%;
+    height: 120px;
+    padding-top: 90px;
+    padding-left: 10%;
+    background-color: #cccccc;
+}
+
+.heading {
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: -1%;
+}
